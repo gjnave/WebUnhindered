@@ -1,7 +1,10 @@
 # WebUnhindered™
 *If you find this product helpful consider thanking me with a tip: [www.patreon.com/cognibuild](https://www.patreon.com/cognibuild/shop/tip-jar-263152)
+
 CognibuildLLC
+
 Block all Ads - No Install
+
 **NOW EVEN BETTER**
 Instant Refresh: No more need to close and re-open your browser when changing settings
 Hotkeys: (now you can change settings w/out a click!) Alt+s+1 to start add blockAlt+s+2 to start XXX blockAlt+s+3 to Unset all blocks, Alt+s+4 to view/hide console window
