@@ -6,9 +6,11 @@ CognibuildLLC
 Block all Ads - No Install
 
 **NOW EVEN BETTER**
-Instant Refresh: No more need to close and re-open your browser when changing settings
-Hotkeys: (now you can change settings w/out a click!) Alt+s+1 to start add blockAlt+s+2 to start XXX blockAlt+s+3 to Unset all blocks, Alt+s+4 to view/hide console window
-Runs from your system tray: Hide the terminal window and avoid clutter, Set and unset your blocks just by clicking the icon. Choose your adapter from a list
+**Instant Refresh:** No more need to close and re-open your browser when changing settings
+
+**Hotkeys:** (now you can change settings w/out a click!) Alt+s+1 to start add blockAlt+s+2 to start XXX blockAlt+s+3 to Unset all blocks, Alt+s+4 to view/hide console window
+
+**Runs from your system tray**: Hide the terminal window and avoid clutter, Set and unset your blocks just by clicking the icon. Choose your adapter from a list
 
 We've just developed this app and it's AWESOME! We all know what it's like to go to a website and get bombarded with spam. Sometimes so bad you can't even click anything. No longer! No more pop-up ads, no more mini-commercials, no more spam-pages! NO INSTALL! Just download and click.
 
