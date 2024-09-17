@@ -43,4 +43,5 @@ The scripts and software provided in this repository are offered "as-is" without
 1. No Liability: The developers of this software are not responsible for any harm, damage, or data loss that may result from the use, misuse, or inability to use this software. This includes, but is not limited to, issues related to system performance, data security, or system integrity.
 2. Use at Your Own Risk: Any use of the scripts or software is done at your own discretion and risk. It is strongly recommended that you back up your data and ensure compatibility with your environment before executing the scripts.
 3. No Warranty: We do not provide any warranties, either expressed or implied, including, without limitation, implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
-By using this software, you acknowledge that you have read this disclaimer and agree to hold the developers free from any liability or claims.
+4. 
+By using this software, you acknowledge that you have read this disclaimer and agree to the terms of service and hold the developers free from any liability or claims.
