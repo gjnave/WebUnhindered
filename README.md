@@ -41,6 +41,8 @@ Platform: Windows 10/11
 
 Developed by: Cognibuild LLC™
 
+To compile: use pyinstaller, BlockAds.py and a.ico
+
 ******************************
 **DISCLAIMER:**
 The scripts and software provided in this repository are offered "as-is" without any warranty or guarantee of any kind. By using these scripts, you agree that:
