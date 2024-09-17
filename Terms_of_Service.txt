@@ -1,0 +1,69 @@
+Terms of Service for Cognibuild LLC Software
+1. Acceptance of Terms
+By accessing or using the software provided by Cognibuild LLC ("the Software") through our Patreon page (patreon.com/cognibuild), you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Software.
+
+2. Software Description
+The Software is an ad-blocker designed to prevent the display of various forms of advertising on websites and applications. It interacts with your Windows operating system and may modify network configurations, including DNS settings, to achieve its ad-blocking functionality.
+
+3. License Grant
+Subject to your compliance with these Terms, Cognibuild LLC grants you a non-exclusive, non-transferable, revocable license to use the Software solely for personal, single-use, non-commercial purposes. You may not distribute, modify, reverse engineer, decompile, disassemble, or exploit the Software without prior written permission from Cognibuild LLC.
+
+4. Intellectual Property
+All intellectual property rights in the Software, including but not limited to copyrights, trademarks, and patents, are owned by Cognibuild LLC. Nothing in these Terms shall be construed as granting any rights to use such intellectual property other than as expressly provided herein.
+
+5. Patreon-Specific Terms
+Your access to the Software is provided through Patreon. You agree to comply with Patreon's terms of service in addition to these Terms. In the event of any conflict between these Terms and Patreon's terms, these Terms shall prevail with respect to your use of the Software.
+
+6. Software Functionality and Risks
+The Software functions as an ad-blocker and may interfere with the display of content on various websites and applications. By using the Software, you acknowledge and accept that:
+a) Some websites may not function properly with ad-blocking enabled.
+b) The Software may impact your browsing experience in ways not limited to ad removal.
+c) Changes made to your system or network are at your own risk.
+Cognibuild LLC is not liable for any issues, damages, or disruptions to your system, network, or browsing experience that result from the use of the Software.
+
+7. Disclaimer of Liability
+The Software is provided "as is" without warranties of any kind, either express or implied. Cognibuild LLC disclaims all warranties, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement. Cognibuild LLC shall not be liable for any damages arising out of or related to your use of the Software, including but not limited to direct, indirect, incidental, punitive, and consequential damages.
+
+8. Indemnification
+You agree to indemnify, defend, and hold harmless Cognibuild LLC, its officers, directors, employees, agents, and affiliates from and against any and all claims, damages, obligations, losses, liabilities, costs, and expenses (including attorney's fees) arising from: (i) your use of the Software; (ii) your violation of any term of these Terms; (iii) your violation of any third-party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that your use of the Software caused damage to a third party.
+
+9. Refund Policy
+All sales are final. Cognibuild LLC does not offer refunds for the Software once purchased. If you experience issues with the Software, please contact support at cognibuild@gmail.com
+
+10. Privacy Policy and Data Collection
+Your use of the Software may involve the collection of personal information. Cognibuild LLC is committed to protecting your privacy. Please refer to our Privacy Policy at https://www.cognibuild.ai/privacy-policy-2 for information on how we collect, use, and protect your personal data. By using the Software, you consent to the collection and use of information as described in the Privacy Policy.
+
+11. Updates and Support
+Cognibuild LLC may, at its discretion, provide updates or upgrades to the Software. These Terms will govern any updates or upgrades provided by Cognibuild LLC, unless such updates or upgrades are accompanied by separate terms, in which case those terms will govern.
+
+Technical support for the Software is provided on a best-effort basis. To request support or report issues, please email support@cognibuild.com or use the support forum on our Patreon page. While we strive to address all inquiries, Cognibuild LLC does not guarantee the availability, timeliness, or effectiveness of support services.
+To receive notifications about updates or important changes to the Software, please ensure your email address is up to date on your Patreon account.
+
+12. Export Control
+You agree to comply with all applicable export and import laws and regulations. However, given the nature of the Software as an ad-blocker, it is not subject to specific export controls. If you are accessing the Software from outside the United States, you are responsible for ensuring compliance with your local laws regarding the use of ad-blocking software.
+
+13. Termination
+Cognibuild LLC reserves the right to terminate or suspend your access to the Software at any time, with or without cause, if you breach these Terms or for any other reason. Upon termination, all licenses and rights granted to you in these Terms will immediately cease.
+
+14. Governing Law and Dispute Resolution
+These Terms shall be governed by and construed in accordance with the laws of the State of Idaho, USA. Any disputes arising from or related to these Terms or your use of the Software shall be resolved exclusively in the courts of Idaho.
+However, if you are located outside the United States, you may choose to resolve any disputes through alternative dispute resolution (ADR) methods, such as arbitration or mediation, before pursuing litigation in Idaho courts. If both parties agree, ADR shall be conducted in a mutually agreed-upon location or remotely. The decision reached through ADR shall be binding only if both parties consent to it in writing.
+
+15. Changes to Terms
+Cognibuild LLC may update these Terms from time to time. Any changes will be posted on our Patreon page and will take effect immediately upon posting. Your continued use of the Software after such changes constitutes your acceptance of the new Terms.
+
+16. Severability
+If any provision of these Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that these Terms shall otherwise remain in full force and effect and enforceable.
+
+17. Assignment
+You may not assign or transfer these Terms or your rights under these Terms, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign these Terms at any time without notice or consent.
+
+18. Force Majeure
+Cognibuild LLC will not be liable for any delay or failure to perform resulting from causes outside its reasonable control, including, but not limited to, acts of God, war, terrorism, riots, embargoes, acts of civil or military authorities, fire, floods, accidents, strikes or shortages of transportation facilities, fuel, energy, labor or materials.
+
+19. Entire Agreement
+These Terms constitute the entire agreement between you and Cognibuild LLC regarding the use of the Software, superseding any prior agreements between you and Cognibuild LLC relating to your use of the Software.
+
+20. Contact Information
+For any questions or concerns regarding these Terms, please contact us at cognibuild@gmail.com. For technical support or to report issues with the Software, please email support@cognibuild.com or use the support forum on our Patreon page.
+By using the Software, you acknowledge that you have read these Terms, understand them, and agree to be bound by them.
