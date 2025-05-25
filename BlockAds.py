@@ -15,6 +15,7 @@ import win32con
 from io import BytesIO
 import base64
 import re
+from dns_configs import *
 
 kernel32 = ctypes.WinDLL('kernel32')
 user32 = ctypes.WinDLL('user32')
